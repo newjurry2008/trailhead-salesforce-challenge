@@ -221,7 +221,7 @@ Refactor the input form for camping list items into its own component and commun
                     'Name': '',
                     'Quantity__c': 0,
                     'Price__c': 0,
-                    'Packed__c': false } />);
+                    'Packed__c': false });
 },
     
 
